@@ -8,7 +8,7 @@
 <h2>Day 2 python problem</h2>
 <br/>
 <h3>Write a program that takes a list of numbers as input and separates the odd and even numbers into two different lists. Print both lists as well.</h3>
-```
+```python
 
 list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
