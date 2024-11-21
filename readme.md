@@ -9,9 +9,9 @@
 <br/>
 <h3>Write a program that takes a list of numbers as input and separates the odd and even numbers into two different lists. Print both lists as well.</h3>
 ```
-# input
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-# output
+
+list=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
 odd: [1, 3, 5, 7, 9]
 even: [2, 4, 6, 8, 10]
 ```
