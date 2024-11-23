@@ -3,7 +3,18 @@
 <h2>Day 1 python problem:</h2> 
 <br/>
 <h3>Write a Python program that takes the number of rows as input and prints the following star pattern.</h3>
-<img src="assets/day1.jpeg">
+
+```python
+#input
+enter the number of rows: 4
+
+#output
+*
+**
+***
+****
+```
+
 <hr/>
 <h2>Day 2 python problem</h2>
 <br/>
@@ -21,7 +32,7 @@ even: [2, 4, 6, 8, 10]
 <hr/>
 <h2>Day 3 python problem</h2>
 <br/>
-<h3>Write a program that takes a list of numbers and sort the list in ascending order and outputs the middile term.</h3>
+<h3>Write a program that takes a list of numbers and sort the list in ascending order and outputs the middle term.(bonus point if you can get the list of numbers from the user) </h3>
 
 ```python
 #input
