@@ -3,7 +3,18 @@
 <h2>Day 1 python problem:</h2> 
 <br/>
 <h3>Write a Python program that takes the number of rows as input and prints the following star pattern.</h3>
-<img src="assets/day1.jpeg">
+
+```python
+#input
+enter the number of rows: 4
+
+#output
+*
+**
+***
+****
+```
+
 <hr/>
 <h2>Day 2 python problem</h2>
 <br/>
