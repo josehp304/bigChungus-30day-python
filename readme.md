@@ -32,7 +32,7 @@ even: [2, 4, 6, 8, 10]
 <hr/>
 <h2>Day 3 python problem</h2>
 <br/>
-<h3>Write a program that takes a list of numbers and sort the list in ascending order and outputs the middle term.</h3>
+<h3>Write a program that takes a list of numbers and sort the list in ascending order and outputs the middle term.(bonus point if you can get the list of numbers from the user) </h3>
 
 ```python
 #input
