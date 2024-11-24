@@ -38,7 +38,17 @@ even: [2, 4, 6, 8, 10]
 #input
 numbers = [8, 3, 1, 7, 0, 10, 2]
 #output
-middle term = 3
+middle term = 7
+
+# example 2 (bonous methode)
+
+#input
+
+Enter a list of numbers = 1 2 3 4 5 6
+
+#output
+
+middle terms are = 3,4
 ```
 
 <hr/>
