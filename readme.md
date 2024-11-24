@@ -40,3 +40,16 @@ numbers = [8, 3, 1, 7, 0, 10, 2]
 #output
 middle term = 3
 ```
+
+<hr/>
+<h2>Day 4 python problem</h2>
+<br/>
+<h3>Count Vowels in a String Count the number of vowels (a, e, i, o, u) in a given string.
+</h3>
+
+```bash
+#input
+s = "hello world"
+#output
+number of vowels = 3
+```
