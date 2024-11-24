@@ -63,3 +63,28 @@ s = "hello world"
 #output
 number of vowels = 3
 ```
+
+<hr/>
+<h2>Day 5 python problem</h2>
+<br/>
+<h3>
+  Write a program to check if a string is a palindrome.
+</h3>
+
+```bash
+#example_1
+
+# input
+enter a string: radar
+
+#output
+String is a palindrome
+
+#example_2
+
+#input
+enter a string: pazam
+
+#output
+String is not a palindrome
+```
