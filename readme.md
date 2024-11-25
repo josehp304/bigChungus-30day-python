@@ -96,7 +96,7 @@ String is not a palindrome
 </h3>
 
 ```bash
-*input
+#input
 list1 = [1,2,3,4,5]
 list2 = [6,2,8,4,10]
 
