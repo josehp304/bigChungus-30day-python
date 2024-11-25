@@ -88,3 +88,19 @@ enter a string: pazam
 #output
 String is not a palindrome
 ```
+<hr/>
+<h2>Day 6 python problem</h2>
+<br/>
+<h3>
+  Write a program that prints out common terms from 2 lists.
+</h3>
+
+```bash
+*input
+list1 = [1,2,3,4,5]
+list2 = [6,2,8,4,10]
+
+#output
+common terms = 2,4
+
+```
