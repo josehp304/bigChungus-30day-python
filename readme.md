@@ -104,3 +104,20 @@ list2 = [6,2,8,4,10]
 common terms = 2,4
 
 ```
+
+<hr/>
+<h2>Day 7 python problem</h2>
+<br/>
+<h3>
+  Problem: Write a program to remove duplicate elements from a list using sets.
+</h3>
+
+```bash
+#input
+list = [1,2,3,4,4,5]
+
+
+#output
+unique_terms= [1,2,3,4,5]
+
+```
