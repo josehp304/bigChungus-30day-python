@@ -131,8 +131,6 @@ Write a program to check if a number is prime or not.
 ```bash
 #input
 n = 3
-
-
 #output
 The number is a prime number. 
 ```
