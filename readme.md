@@ -121,3 +121,18 @@ list = [1,2,3,4,4,5]
 unique_terms= [1,2,3,4,5]
 
 ```
+<hr/>
+<h2>Day 8 python problem</h2>
+<br/>
+<h3>
+Write a program to check if a number is prime or not.
+</h3>
+
+```bash
+#input
+n = 3
+
+
+#output
+The number is a prime number. 
+```
