@@ -1,0 +1,7 @@
+w=input("enter the word ")
+v="AEIOUaeiou"
+c=0
+for i in range(len(w)):
+    if w[i] in v :
+        c+=1
+print("number of vowels",c)
