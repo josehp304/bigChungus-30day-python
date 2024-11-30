@@ -1,0 +1,6 @@
+a=input("enter the word ")
+b=a[::-1]
+if b==a:
+    print("word is a paliendrome")
+else:
+    print("word is not a paliendrome")
