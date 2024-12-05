@@ -180,4 +180,17 @@ enter a number: 4
 #ouput
 24
 ```
+<hr/>
+<h2>Day 11 python problem</h2>
+<br/>
+<h3>
+Write a function that takes a list of numbers and outputs a list with only the even numbers.
+</h3>
 
+```bash
+#input
+[1,2,3,4,5,6,7,8,9,10]
+
+#ouput
+[2,4,6,8,10]
+```
