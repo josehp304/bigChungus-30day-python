@@ -138,7 +138,7 @@ The number is a prime number.
 <h2>Day 9 python problem</h2>
 <br/>
 <h3>
-create a function called celsius_to_fahrenhei that takes a temperature in Celsius and converts it to Fahrenheit using the formula f= (C * 9/5)/32.
+create a function called celsius_to_fahrenhei that takes a temperature in Celsius and converts it to Fahrenheit using the formula f= (C * 9/5)+32.
 </h3>
 
 ```bash
