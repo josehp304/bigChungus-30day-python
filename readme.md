@@ -148,3 +148,36 @@ enter temperature in celsius: 25
 #ouput
 77.0 fahrenheit
 ```
+
+<hr/>
+<h2>Day 10 python problem</h2>
+<br/>
+<h3>
+  Write a function is_even_or_odd that takes an integer and returns whether the number is even or odd. 
+  
+</h3>
+
+```bash
+#input
+enter a number: 10
+
+#ouput
+even
+```
+
+<hr/>
+<h2>Day 11 python problem</h2>
+<br/>
+<h3>
+
+Write program to find the factorial upto a number (bonous points if you use recursion)   
+</h3>
+
+```bash
+#input
+enter a number: 4
+
+#ouput
+24
+```
+
