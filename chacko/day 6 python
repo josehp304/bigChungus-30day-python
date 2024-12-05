@@ -1,0 +1,19 @@
+list1=[]
+list2=[]
+list3=[]
+
+input1=(input("enter the numbers in list 1:"))
+input2=(input("enter the numbers in list 2:"))
+
+l1=input1.split(" ")
+l2=input2.split(" ")
+
+for i in range (len(l1)):
+    for j in range (len(l2)):
+        if l1[i]==l2[j]:
+            list3.append(l1[i])
+            print(list3)
+          
+print("list 1 =",l1)
+print("list 2 =",l2)
+print("common numbers =",list3)
