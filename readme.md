@@ -134,3 +134,22 @@ n = 3
 #output
 The number is a prime number. 
 ```
+<hr/>
+<h2>Day 9 python problem</h2>
+<br/>
+<h3>
+Write a program to find the average marks of students(inside a dictionary).
+</h3>
+
+```bash
+#input
+scores = {
+    "Alice": 85,
+    "Bob": 90,
+    "Charlie": 78,
+    "Diana": 92
+}
+
+#ouput
+86.25
+```
