@@ -138,18 +138,13 @@ The number is a prime number.
 <h2>Day 9 python problem</h2>
 <br/>
 <h3>
-Write a program to find the average marks of students(inside a dictionary).
+create a function called celsius_to_fahrenhei that takes a temperature in Celsius and converts it to Fahrenheit using the formula f= (C * 9/5)/32.
 </h3>
 
 ```bash
 #input
-scores = {
-    "Alice": 85,
-    "Bob": 90,
-    "Charlie": 78,
-    "Diana": 92
-}
+enter temperature in celsius: 25
 
 #ouput
-86.25
+77.0 fahrenheit
 ```
