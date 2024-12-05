@@ -1,0 +1,22 @@
+def converter ():
+    A=int(input("enter celcius   "))
+    B=(A *9/5)+32
+    print ('The converted value = ' , B )
+    
+    
+
+print ( """    
+
+         Welcome
+celsius to fahrenheit  coverter  
+
+""")
+
+
+
+
+
+
+
+converter ()
+converter ()
