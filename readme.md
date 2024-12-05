@@ -181,7 +181,7 @@ enter a number: 4
 24
 ```
 <hr/>
-<h2>Day 11 python problem</h2>
+<h2>Day 12 python problem</h2>
 <br/>
 <h3>
 Write a function that takes a list of numbers and outputs a list with only the even numbers.
@@ -193,4 +193,21 @@ Write a function that takes a list of numbers and outputs a list with only the e
 
 #ouput
 [2,4,6,8,10]
+```
+
+<hr/>
+<h2>Day 13 python problem</h2>
+<br/>
+<h3>
+Write a function to calculate the area and perimeter of a rectangle
+</h3>
+
+```bash
+#input
+enter height: 5
+enter width: 10
+
+#ouput
+perimeter: 30
+area: 50
 ```
