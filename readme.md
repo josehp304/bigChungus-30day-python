@@ -211,3 +211,17 @@ enter width: 10
 perimeter: 30
 area: 50
 ```
+
+hr/>
+<h2>Day 14 python problem</h2>
+<br/>
+<h3>
+Program to check whether the given number is a valid mobile number or not using functions.
+
+           Rules:
+
+              1.       Every number should contain exactly 10 digits.
+
+              2.       The first digit should be 7 or 8 or 9
+</h3>
+
